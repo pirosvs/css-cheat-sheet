@@ -1,12 +1,39 @@
 * {
-    background-color: black;
+    background-color: #161515;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
+
+header {
+    width: 70%;
+    margin: 3px 0px 3px 0px;
+    text-align: center;
+}
+
+h1, h2, p {
+    color: violet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+span {
+    color: white;
+}
+
+div {
+    box-sizing: border-box;
+    width: 33.3%;
+    border: 2px dashed white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+ }
+  
 
 @media screen and (max-width:992px) {
     width: 50%;
 }
 
 @media screen and (max-width:768px) {
-    width: 100%
+    width: 100%;
 }
