@@ -6,7 +6,7 @@
 }
 
 header {
-    width: 70%;
+    width: 75%;
     margin: 3px 0px 3px 0px;
     text-align: center;
 }
@@ -24,6 +24,23 @@ span {
     color: white;
 }
 
+pre {
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 95%;
+    color: white;
+    background-image: linear-gradient(
+        rgba(232, 102, 236, 0.3) 0%,
+        rgba(232, 102, 236, 0.6) 100%
+    );
+}
+
+article:hover {
+    box-shadow: inset 0px 0px 0px 8px
+    rgba(232, 102, 236, 1), 0 0 5px
+    rgba(232, 102, 236, 1);
+}
+
 article {
     box-sizing: border-box;
     width: 30%;
@@ -31,9 +48,10 @@ article {
     display: flex;
     /* flex: 1 1 1; */
     justify-content: space-between;
-    /* padding-top: 20px;
-    margin: 10px; */
-    text-align: center;
+    padding-top: 20px;
+    /* margin: 5px; */
+    /* text-align: center; */
+    transition: all 0.5s ease-in-out;
  }
   
 
