@@ -29,6 +29,7 @@ pre {
     border-radius: 5px;
     width: 95%;
     color: white;
+    user-select: all;
     background-image: linear-gradient(
         rgba(232, 102, 236, 0.3) 0%,
         rgba(232, 102, 236, 0.6) 100%
@@ -36,7 +37,7 @@ pre {
 }
 
 article:hover {
-    box-shadow: inset 0px 0px 0px 8px
+    box-shadow: inset 0px 0px 0px 2px
     rgba(232, 102, 236, 1), 0 0 5px
     rgba(232, 102, 236, 1);
 }
