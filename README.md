@@ -19,4 +19,7 @@ Credit to professor and all others involved in the making of the challenge and e
 This project falls under the MIT license.
 
 ## Author
-Damien Armstrong can be found on: <a href="https://www.linkedin.com/in/damien-armstrong-412319138/">Linkedin</a>, <a href="https://github.com/pirosvs">Github</a>
+<ul>
+    <li>Damien Armstrong can be found on: <a href="https://www.linkedin.com/in/damien-armstrong-412319138/">Linkedin</a>, <a href="https://github.com/pirosvs">Github</a></li>
+    <li>Daniel Pablo can also be found on <a href="https://github.com/dpablo2018">Github</a></li>
+</ul>
