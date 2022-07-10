@@ -1,10 +1,12 @@
 # css-cheat-sheet
 
-! [Screenshot of working site] "./assets/css-page-fullscreen.png"
-! [Screenshot of site at tablet size] "./assets/css-page-tablet.png"
-! [Screenshot of site at phone size] "./assets/css-page-phone.png"
+<a href="https://pirosvs.github.io/css-cheat-sheet/">Click here to view the site</a>
 
 ## Description
+
+<img src="./assets/css-page-fullscreen.png" alt="Working site"/>
+<img src="./assets/css-page-tablet.png" alt ="Site at tablet size">
+<img src="./assets/css-page-phone.png" alt="Site at phone size">
 
 This project uses flexboxes to create a responsive site to offer snippets of CSS code for people to use to experiment with things such as gradients, grid layout, and flexbox. Responsive layouts are important so that all functionality can be accessed no matter what device is being used, as some users may not always have access to certain devices or a desktop size screen. This project makes the site legible at smaller sizes instead of getting cut off and not showing content or content getting endlessly smaller or overlapping, which could make the site unusable or impossible to read. This project also relies on collaborative work with a shared repository and handling/ avoiding of merge conflicts, thus demonstrating standards of communication and collaboration with a partner.
 
@@ -15,3 +17,6 @@ Credit to professor and all others involved in the making of the challenge and e
 
 ## License
 This project falls under the MIT license.
+
+## Author
+Damien Armstrong can be found on: <a href="https://www.linkedin.com/in/damien-armstrong-412319138/">Linkedin</a>, <a href="https://github.com/pirosvs">Github</a>
